@@ -1,4 +1,4 @@
-# requirements for cygin
+# requirements for cygwin
 
 - xorg-server
 - xinit
