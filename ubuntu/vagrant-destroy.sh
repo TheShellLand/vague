@@ -1,3 +1,3 @@
 set -xe 
-vagrant halt && vagrant up 
+vagrant halt && vagrant destroy -f
 
