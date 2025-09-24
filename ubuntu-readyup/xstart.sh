@@ -6,6 +6,4 @@ set -xe
 
 export DISPLAY=:0.0
 
-vagrant up $@
-startxwin 
-
+vagrant up $@ && startxwin & disown

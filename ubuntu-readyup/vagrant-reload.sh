@@ -1,3 +1,2 @@
 set -xe 
 vagrant reload
-
